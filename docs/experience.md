@@ -18,23 +18,33 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="timeline-entry" markdown>
 
-### [YOUR JOB TITLE] — [YOUR COMPANY / ORGANIZATION]
-*[Month Year] – [Month Year or Present] | [City, Country]*
+### Training Associate — Spatial Thoughts LLP
+*October 2022 – Present | Ahmedabad, India*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+- Created and tested training material for courses on Google Earth Engine (basic to advanced), Spatial Analysis with Python, QGIS, and GDAL.
+- Managed course logistics, provided technical support to participants, and contributed to consultancy projects.
+- Involved in R&D efforts to develop new course content across geospatial topics.
 
 </div>
 
 <div class="timeline-entry" markdown>
 
-### [YOUR PREVIOUS JOB TITLE] — [YOUR PREVIOUS COMPANY]
-*[Month Year] – [Month Year] | [City, Country]*
+### Software Engineer — Genesys International Corporation Limited
+*October 2021 – September 2022 | Mumbai, India*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+- Developed Python tools and scripts within QGIS to automate spatial analysis and data processing workflows.
+- Worked as part of a development team delivering geospatial solutions for clients.
+
+</div>
+
+<div class="timeline-entry" markdown>
+
+### Project Associate — National Environmental Engineering and Research Institute (NEERI/CSIR)
+*February 2019 – July 2021 | Nagpur, India*
+
+- Led GIS work for *RISK-PiNET*, a GIS-based Risk Assessment Modelling Tool for Water Distribution Systems.
+- Contributed to Environment Impact Assessment studies for the IOCL Panipat Refinery.
+- Carried out LULC classification, waterbody identification and mapping, and aquaculture pond extraction.
 
 </div>
 
@@ -44,22 +54,12 @@ CHECKLIST FOR THIS PAGE:
 
 ## Education
 
-### [YOUR DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### M.Sc in Geoinformatics
+**Bharati Vidyapeeth Institute of Environment Education and Research** | *2018*
 
-[Optional: one sentence about your thesis, specialization, or coursework if relevant]
-
----
-
-### [YOUR PREVIOUS DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+Dissertation: Developed an early warning forest fire detection system using MODIS satellite data to identify hotspots and send near real-time alerts to forest authorities in Gadchiroli, Maharashtra.
 
 ---
 
-## Certifications
-
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
-
-*Examples: QGIS Certification, PMP Certification, AWS Certified Cloud Practitioner*
+### B.Sc in Mathematics (Hons.)
+**The Maharaja Sayajirao University of Baroda** | *2016*
