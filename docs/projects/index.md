@@ -18,7 +18,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![](../assets/images/RiskPinet.png)
 
 **[RISK PiNET](sample-project.md)**
 
@@ -30,7 +30,7 @@ Risk assessment tool for Water Distribution System,
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
+![](../assets/images/duckdb.png)
 
 **[Project Notebook](DuckDB_Geospatial.ipynb)**
 
