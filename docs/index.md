@@ -18,10 +18,10 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="Vigna Purohit" class="profile-photo">
+  <h1>Vigna Purohit</h1>
+  <p><strong>GIS Professional</strong></p>
+  <p><em>Putting the "special" in spatial</em></p>
 </div>
 
 ---
@@ -31,15 +31,11 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
-
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I bring a diverse professional background, having worked across research organizations, corporate environments, and
+educational institutions. My experience spans collaborative team settings, as well as hands-on involvement with startups,
+where I gained valuable insights into both field-related work and administrative logistics. With a passion for leveraging remote
+sensing and GIS technologies, I am eager to explore innovative applications through the adoption of cutting-edge techniques
+and the development of streamlined workflows. I am currently seeking opportunities as GIS Professional in Tallinn, Estonia.
 
 </div>
 
@@ -52,7 +48,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Vigna-CV.pdf){ .md-button }
 
 
 ---
@@ -65,19 +61,17 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - QGIS, GDAL, Python
+    - Google Earth Engine
+    - Cloud Native Geospatial 
 
 -   :material-code-braces:{ .lg .middle } **Programming**
 
     ---
 
     - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
+    - SQL
+    - PyQGIS
 
 -   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
 
@@ -92,7 +86,6 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - Leaflet.js, Folium, MapLibre GL JS
     - Cloud storage — AWS S3, Google Cloud Storage
     - Data formats — GeoTIFF, GeoParquet, NetCDF
     - Streamlit for data-driven web apps
@@ -101,15 +94,10 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - PostgreSQL + PostGIS
+    - PostgreSQL + PostGIS, DuckDB
     - Cloud storage: AWS S3, Google Cloud Storage
     - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
-
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
-
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+      
 </div>
 
 
@@ -117,5 +105,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub]([https://github.com/[YOUR-GITHUB-USERNAME]](https://github.com/VignaPurohit)){ .md-button }
+[LinkedIn]([https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]](https://www.linkedin.com/in/vigna-purohit-666838150/)){ .md-button }
