@@ -20,12 +20,11 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="project-card" markdown>
 ![](../assets/images/placeholder-project.png)
 
-**[Sample Project](sample-project.md)**
+**[RISK PiNET](sample-project.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+Risk assessment tool for Water Distribution System,
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`[QGIS]` `[Python]` `[Mike]`
 
 [View Project →](sample-project.md){ .md-button }
 </div>
@@ -33,14 +32,13 @@ and what you found or built.]
 <div class="project-card" markdown>
 ![](../assets/images/placeholder-notebook.png)
 
-**[Sample Notebook](sample-notebook.ipynb)**
+**[Project Notebook](DuckDB_Geospatial.ipynb)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+This one was part of the material for my FOSS4G DuckDB workshop.
 
-`Python` `pandas` `Folium`
+`Python` `pandas` `DuckDB`
 
-[View Project →](sample-notebook.ipynb){ .md-button }
+[View Project →]((https://colab.research.google.com/drive/1jF_J3xCYeDPL24pmX0y1Z74IMcK3N5ix#scrollTo=2Jrdb3VEeEkC){ .md-button }
 </div>
 
 </div>
