@@ -14,6 +14,10 @@ CHECKLIST FOR THIS PAGE (copy this file for each new project):
 
 ![Project overview image](../assets/images/RiskPinet.png)
 
+## Overview
+
+It is a GIS based tool to manage drinking water distribution system effectively with the use of GIS & Mathematical modelling.
+
 ## Links
 
 [Documentry by CSIR-NEERI](https://www.youtube.com/watch?v=_wOkgtaXMxM){ .md-button }
