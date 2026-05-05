@@ -105,5 +105,5 @@ and the development of streamlined workflows. I am currently seeking opportuniti
 
 ## Connect
 
-[GitHub] (https://github.com/VignaPurohit) { .md-button }
-[LinkedIn] (https://www.linkedin.com/in/vigna-purohit-666838150/) { .md-button }
+[GitHub](https://github.com/VignaPurohit){ .md-button }
+[LinkedIn](https://www.linkedin.com/in/vigna-purohit-666838150/){ .md-button }
