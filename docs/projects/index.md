@@ -22,7 +22,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 
 **[RISK PiNET](sample-project.md)**
 
-Risk assessment tool for Water Distribution System,
+Aging water distribution systems are increasingly exposed to pipe failures and contamination risks, particularly in cities characterized by intermittent water supply and limited infrastructure records. Existing decision support systems address structural deterioration and water quality risks independently, limiting their effectiveness for integrated asset management in data-constrained settings. To address this gap, this study develops RISK-PiNET, an integrated decision support framework for pipe-level risk assessment and replacement planning in urban water distribution networks. The framework consists of three interconnected modules: Pipe Condition Assessment (PCA) for evaluating structural vulnerability, Hazard Assessment (HA) for estimating contamination ingress potential, and Risk Assessment (RA) for integrating vulnerability and hazard to derive composite risk scores. The applicability of RISK-PiNET is demonstrated through a case study of an urban water distribution network in India. Validation against geotagged consumer complaints and targeted field inspections shows agreements of 81.2% and 62.5%, respectively. The results demonstrate the capability of RISK-PiNET to identify high-risk pipes and support cost-aware replacement planning in data-constrained urban water supply systems.
 
 `[QGIS]` `[Python]` `[Mike]`
 
@@ -38,7 +38,7 @@ This one was part of the material for my FOSS4G DuckDB workshop.
 
 `Python` `pandas` `DuckDB`
 
-[View Project →]((https://colab.research.google.com/drive/1jF_J3xCYeDPL24pmX0y1Z74IMcK3N5ix#scrollTo=2Jrdb3VEeEkC){ .md-button }
+[View Project →](DuckDB_Geospatial.ipynb){ .md-button }
 </div>
 
 </div>
